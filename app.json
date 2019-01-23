@@ -14,7 +14,7 @@
       "quantity": 1
     }
   },
-  "name": "hello-nodejs-typescript",
+  "name": "hello-heroku-express",
   "scripts": {
   },
   "stack": "heroku-18"
